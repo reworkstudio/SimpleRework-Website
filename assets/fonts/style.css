@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Inter-Bold';
+   font-display: swap;
+   src: url('Inter-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'SF-Pro-Display-Semibold';
+   font-display: swap;
+   src: url('SF-Pro-Display-Semibold/font.ttf');
+}
+@font-face {
+   font-family: 'Inter-Regular';
+   font-display: swap;
+   src: url('Inter-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Inter-Light';
+   font-display: swap;
+   src: url('Inter-Light/font.ttf');
+}
