@@ -1,5 +1,5 @@
 # Custom RP new website
-#### Custom RP - create you custom discord game status
+#### Simple WebSite
 ---
 ####  What's new?
 The website design has been completely redesigned.
@@ -9,10 +9,6 @@ The website design has been completely redesigned.
 ---
 #### Where Can It Be Used?
 You can download this source and use it FULLY for your own purposes. I made it as open as possible to the community. I will be glad to see your projects on this site :)
-
----
-#### Only CustomRP?
-No. This site is also for other projects. I did it for CustomRP just because I'm an enthusiast, and it was an excuse to redesign the site of these guys.
 
 ---
 #### Optimized?
